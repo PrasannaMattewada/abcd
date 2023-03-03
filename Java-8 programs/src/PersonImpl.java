@@ -1,5 +1,5 @@
 interface Person{
-	public abstract void eat();
+	public abstract void eat();//method
 }
 public class PersonImpl {
 	public static void main(String[]args) {
